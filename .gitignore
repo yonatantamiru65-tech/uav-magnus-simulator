@@ -1,0 +1,19 @@
+# MATLAB generated and machine-specific files
+slprj/
+codegen/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.mex*
+pathdef.m
+*.slx.original
+*.slx.r*
+# Install external dependencies separately
+yalmip/
+yalmip.zip
+# Large saved simulation outputs are release assets
+*.mat
+# Operating-system files
+.DS_Store
+Thumbs.db
