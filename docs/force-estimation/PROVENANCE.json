@@ -1,0 +1,97 @@
+[
+  {
+    "file": "01-rms-across-scenarios.jpg",
+    "source": "Final Plots Simulation/RMS_across_scenarios2.jpg",
+    "sha256": "53e77a9b5b237fe8f4b86b24514096c14b68e70f6f3a994765276dd37b9e18c5"
+  },
+  {
+    "file": "02-scenario-1-reference.jpg",
+    "source": "Final Plots Simulation/scenario1.jpg",
+    "sha256": "1608ff3670622996ef7001feaa586aa0f7553ab7b77ce48a3547ae6ff6490377"
+  },
+  {
+    "file": "03-scenario-2-elevation-reference.jpg",
+    "source": "Final Plots Simulation/scenario2.jpg",
+    "sha256": "9229fd8ebd95a013b8207f307f27741e4a78fd4b05e7646ed5e51a535b350335"
+  },
+  {
+    "file": "04-scenario-3-azimuth-reference.jpg",
+    "source": "Final Plots Simulation/scenario3.jpg",
+    "sha256": "36b9defa578f9c9f185a148bd63122602c838361bde4fd9529930a7e0dc08cea"
+  },
+  {
+    "file": "05-s1-baseline-force.jpg",
+    "source": "Final Plots Simulation/Senario1/Azaki/Force.jpg",
+    "sha256": "f25f5c5d44923a367f8e76d6c48abca0369893034dca503ed5b10d8b9331146c"
+  },
+  {
+    "file": "06-s1-adaptive-q-force.jpg",
+    "source": "Final Plots Simulation/Senario1/AdaptiveQ/Azaki_intQ/Force.jpg",
+    "sha256": "749acdce81305d91b6a3c702aa8452124d10344b43a0b2290839cfa0a54fecb4"
+  },
+  {
+    "file": "07-s1-adaptive-r-force.jpg",
+    "source": "Final Plots Simulation/Senario1/AdaptiveR/Force.jpg",
+    "sha256": "895e72f92b61ff49fc9c446e829b4ef197b6b79036b0a6a00ab31a70eb5b17b2"
+  },
+  {
+    "file": "08-s2-baseline-force.jpg",
+    "source": "Final Plots Simulation/Senario2/Azaki/Force.jpg",
+    "sha256": "f1191fce2fd53b95d171da05bdbbc5bdd7410a5af5d2cbf18c521aed6e20fe0f"
+  },
+  {
+    "file": "09-s2-adaptive-q-force.jpg",
+    "source": "Final Plots Simulation/Senario2/AdaptiveQ/Force.jpg",
+    "sha256": "15796189e19acbc0c7d4e4f10bbef4c5032bf60cacf50a0db1b0f64dbaef01d5"
+  },
+  {
+    "file": "10-s2-adaptive-r-force.jpg",
+    "source": "Final Plots Simulation/Senario2/AdaptiveR/Force.jpg",
+    "sha256": "ac42008bcc688475c8880b188253230df2cf3add6da1633c433b069037fde397"
+  },
+  {
+    "file": "11-s3-baseline-force.jpg",
+    "source": "Final Plots Simulation/Senario3/Azaki/Force.jpg",
+    "sha256": "b4beaa40c424627344ebf52253f5fefa148c8aa993c8d5b7ef065df0ac7af620"
+  },
+  {
+    "file": "12-s3-adaptive-q-force.jpg",
+    "source": "Final Plots Simulation/Senario3/AdaptiveQ/Force.jpg",
+    "sha256": "238a89af320b6b349698d2b6fe93eb6aa916a1b6f5c5b1f3d18060d0f5ac4364"
+  },
+  {
+    "file": "13-s3-adaptive-r-force.jpg",
+    "source": "Final Plots Simulation/Senario3/AdaptiveR/Force.jpg",
+    "sha256": "577bc4a4aa67adcb81fc75b81c9392a134efa286980e34baeb766c8f5992d5ad"
+  },
+  {
+    "file": "14-s1-identity-q-force.jpg",
+    "source": "Final Plots Simulation/Senario1/AdaptiveQ/identity_intQ/Force.jpg",
+    "sha256": "a0d9f8f59ac920e3e8fb824b42b0feff7852a2216175b5183de8d8da2ecb93f1"
+  },
+  {
+    "file": "15-s1-identity-q-eigenvalues.jpg",
+    "source": "Final Plots Simulation/Senario1/AdaptiveQ/identity_intQ/Eig_Q.jpg",
+    "sha256": "08db020206f48681f621415e230cbfe6f6138b28003aa1ae738e050ab820926e"
+  },
+  {
+    "file": "16-pid-force-difference.jpg",
+    "source": "Final Plots Expermental/PID_Data/Force_diff.jpg",
+    "sha256": "451f45fc2e359e58113b72421a7c6318bbfad5ed8a8aab82365d1ba4ab0dc70d"
+  },
+  {
+    "file": "17-smc-force-difference.jpg",
+    "source": "Final Plots Expermental/SMC_Data/Force_diff.jpg",
+    "sha256": "c6a336fa01be46055ff59113dcd6a2b7fed3eb99f8ea210631b39ebde9613fcb"
+  },
+  {
+    "file": "18-pid-flight-force.png",
+    "source": "Rendered, without altering plots, from PID_force_compartion_with_GS.pdf",
+    "sha256": "55d6592743cbd29c1e0b027de31a265991d134f72a592312c0545dd25de8a9da"
+  },
+  {
+    "file": "19-smc-flight-force.png",
+    "source": "Rendered, without altering plots, from SMC_force_compartion_with_GS.pdf",
+    "sha256": "ab07d817a894bf109fbef81530b7634f8fad5e76b8b61653b79bc965848747cc"
+  }
+]
